@@ -15,4 +15,4 @@ source /home/aero/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 #My custom aliases
 alias shutdown="/bin/hibernate"
-alias backup="sudo timeshift --check"
+alias backup="sudo timeshift --check && paru"
